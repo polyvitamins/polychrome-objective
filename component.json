@@ -1,0 +1,27 @@
+{
+  "name": "polyscope-objective",
+  "repository": "http://github.com/polyvitamins/polyscope-objective",
+  "description": "Supports EACH function for all object-like functions",
+  "version": "0.0.1",
+  "keywords": ["polyscope", "class", "objective"],
+  "dependencies": {
+    "polyvitamins/polyscope": "master"
+   },
+  "scripts": [
+    "src/Objective.js"
+  ],
+  "optional": {
+    "charge": "src/Objective/charge",
+    "tie": "src/Objective/tie"
+  },
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "global","amd"
+  ],
+  "files": [
+    "src/*"
+  ]
+}
