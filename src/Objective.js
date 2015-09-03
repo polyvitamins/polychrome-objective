@@ -1,7 +1,7 @@
 define([
-	'polyvitamins~polyscope@master',
-	'polyvitamins~polyscope@master/system/sings/sRichArray',
-	'polyvitamins~polyscope@master/system/sings/sArray'
+	'polyvitamins~polychrome@master',
+	'polyvitamins~polychrome@master/system/sings/sRichArray',
+	'polyvitamins~polychrome@master/system/sings/sArray'
 	], function(core, extend) {
 	/* Расширяем абстрактный класс Function */
 	

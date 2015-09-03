@@ -1,11 +1,11 @@
 {
-  "name": "polyscope-objective",
-  "repository": "http://github.com/polyvitamins/polyscope-objective",
+  "name": "polychrome-objective",
+  "repository": "http://github.com/polyvitamins/polychrome-objective",
   "description": "Supports EACH function for all object-like functions",
   "version": "0.0.1",
-  "keywords": ["polyscope", "class", "objective"],
+  "keywords": ["polychrome", "class", "objective"],
   "dependencies": {
-    "polyvitamins/polyscope": "master"
+    "polyvitamins/polychrome": "master"
    },
   "scripts": [
     "src/Objective.js"
